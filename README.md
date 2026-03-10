@@ -1,6 +1,6 @@
 <div align="center">
 
-# I'm Jay Vegada
+<h1>I'm Jay Vegada</h1>
 
 
 *"उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।
