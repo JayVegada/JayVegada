@@ -3,6 +3,10 @@
 # I'm [Jay Vegada]
 
 
+*"उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।
+आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥"*
+*— Bhagavad Gita*
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student+%40+GTU;Building+the+foundation%2C+brick+by+brick;Future+builder+of+something+meaningful)](https://git.io/typing-svg)
