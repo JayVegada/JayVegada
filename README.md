@@ -58,8 +58,8 @@ I'm in **Phase 0 — Foundation**. Focusing on depth, not breadth.
 > *Early days — the graph is just starting to fill up. Check back soon.* 📈
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JayVegada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayVegada&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
