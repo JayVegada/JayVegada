@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%40+AIT+GTU;Building+Tools+For+Engineering+Students;Open+Source+Learner;Future+AI+Engineer;No+Shortcuts.+Just+Depth.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=F7A800&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student+%40+AIT+GTU;Building+Tools+For+Engineering+Students;Turning+GTU+Resources+Into+Study+Platforms;Future+AI+Engineer+%E2%86%92+Builder+%E2%86%92+Founder;No+Shortcuts.+Just+Depth.)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@ During exam preparation, I noticed that engineering students often spend more ti
 
 My current focus is strengthening the fundamentals every strong engineer needs: programming, CS theory, problem solving, and systems thinking.
 
-Long term, I aim to move from building educational tools to developing intelligent systems and AI-driven products that create meaningful impact at scale — starting with India.
+Long term, I aim to build intelligent systems and AI-driven products that solve meaningful problems at scale, beginning with education, productivity, and technology.
 
 ---
 
@@ -41,6 +41,12 @@ Long term, I aim to move from building educational tools to developing intellige
 | [COA-Study-Hub](https://github.com/JayVegada/COA-Study-Hub) | Computer Organization & Architecture Q-bank with search and filtering | [🌐 View](https://jayvegada.github.io/COA-Study-Hub/) |
 | [OS-Study-Hub](https://github.com/JayVegada/OS-Study-Hub) | Operating Systems learning platform with simplified explanations | [🌐 View](https://jayvegada.github.io/OS-Study-Hub/) |
 
+### Impact
+
+- 4+ educational platforms
+- Multiple GTU subjects covered
+- Open-source and freely accessible
+- Built to reduce friction in engineering exam preparation
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -68,7 +74,7 @@ Long term, I aim to move from building educational tools to developing intellige
 
 ├── Learning CS Fundamentals
 ├── Problem Solving & DSA
-├── Making Project and Learning by Vibe Coding
+├── Project-Driven Development
 └── Building GTU educational platforms
 
 [NEXT] 🧠  Software & Intelligence
@@ -92,7 +98,7 @@ Outside programming, I captain a **kabaddi team** — where leadership, trust, a
 
 I organized a **multi-college C++ debugging challenge**: designed the question bank, built the grading system, detected anomalies, and coordinated volunteers. Running a technical event taught me things no classroom does.
 
-I study strategy through cricket, game theory, and the Mahabharata — particularly the thinking of Krishna, Vidur, Devavrata and Arjuna. Philosophy and engineering are more related than they look.
+I enjoy studying strategy through cricket, game theory, history, and the Mahabharata — particularly the thinking of Krishna, Vidur, Devavrat and Arjun. Philosophy and engineering are more related than they look.
 
 ---
 
