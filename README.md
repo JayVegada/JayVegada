@@ -20,7 +20,7 @@
 
 ## 🙋 About Me
 
-I'm a **2nd-year Computer Engineering student** at **Ahmedabad Institute of Technology (AIT)**, affiliated with Gujarat Technological University, Gujarat 🇮🇳
+I'm a **3rd-year Computer Engineering student** at **Ahmedabad Institute of Technology (AIT)**, affiliated with Gujarat Technological University, Gujarat 🇮🇳
 
 During exam preparation, I noticed that engineering students often spend more time searching for resources than actually learning. So I started building structured, searchable, syllabus-aligned study platforms to fix that — and haven't stopped since.
 
@@ -37,16 +37,18 @@ Long term, I aim to build intelligent systems and AI-driven products that solve 
 | Project | Description | Live |
 |---------|-------------|------|
 | [ai-engineer-roadmap](https://github.com/JayVegada/ai-engineer-roadmap) | A structured, opinionated roadmap for becoming an AI Engineer — built from first principles | [🌐 View](https://jayvegada.github.io/ai-engineer-roadmap/) |
-| [OOP-Study-Hub](https://github.com/JayVegada/OOP-Study-Hub) | OOP exam prep — Q&A, ELI10 explanations, frequency-based prediction analysis | [🌐 View](https://jayvegada.github.io/OOP-Study-Hub/) |
+| [GTU-SPI-Calculator](https://github.com/JayVegada/GTU-SPI-Calculator) | SPI & CGPA calculator for GTU students — grade input, live calculation, clean UI | [🌐 View](https://jayvegada.github.io/GTU-SPI-Calculator/) |
+| [OOP-Study-Hub](https://github.com/JayVegada/OOP-Study-Hub) | Object-Oriented Programming exam prep — structured Q&A with ELI10 explanations and syllabus mapping | [🌐 View](https://jayvegada.github.io/OOP-Study-Hub/) |
 | [COA-Study-Hub](https://github.com/JayVegada/COA-Study-Hub) | Computer Organization & Architecture Q-bank with search and filtering | [🌐 View](https://jayvegada.github.io/COA-Study-Hub/) |
-| [OS-Study-Hub](https://github.com/JayVegada/OS-Study-Hub) | Operating Systems learning platform with simplified explanations | [🌐 View](https://jayvegada.github.io/OS-Study-Hub/) |
+| [OS-Study-Hub](https://github.com/JayVegada/OS-Study-Hub) | Operating Systems learning platform — 39-question bank with unit-wise navigation and search | [🌐 View](https://jayvegada.github.io/OS-Study-Hub/) |
 
 ### Impact
 
-- 4+ educational platforms
-- Multiple GTU subjects covered
+- 5+ open-source tools for GTU engineering students
+- Multiple subjects covered across different sem
 - Open-source and freely accessible
 - Built to reduce friction in engineering exam preparation
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -120,7 +122,7 @@ I enjoy studying strategy through cricket, game theory, history, and the Mahabha
 Learning, building, and always open to meaningful conversations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-vegada-ja045y/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.jayvegda201@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.jayvegada201@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaypatel.045/)
 
 ---
