@@ -37,7 +37,7 @@ Long term, I aim to build intelligent systems and AI-driven products that solve 
 | Project | Description | Live |
 |---------|-------------|------|
 | [ai-engineer-roadmap](https://github.com/JayVegada/ai-engineer-roadmap) | A structured, opinionated roadmap for becoming an AI Engineer — built from first principles | [🌐 View](https://jayvegada.github.io/ai-engineer-roadmap/) |
-| [GTU-SPI-Calculator](https://github.com/JayVegada/GTU-SPI-Calculator) | SPI & CGPA calculator for GTU students — grade input, live calculation, clean UI | [🌐 View](https://jayvegada.github.io/GTU-SPI-Calculator/) |
+| [GTU-SPI-Calculator](https://github.com/JayVegada/GTU-SPI-Calculator) | SPI & CGPA calculator for GTU students — grade input, live calculation, clean UI | [🌐 View](https://jayvegada.github.io/gtu-spi-calculator/GTU-SPI-CALCULATOR.html/) |
 | [OOP-Study-Hub](https://github.com/JayVegada/OOP-Study-Hub) | Object-Oriented Programming exam prep — structured Q&A with ELI10 explanations and syllabus mapping | [🌐 View](https://jayvegada.github.io/OOP-Study-Hub/) |
 | [COA-Study-Hub](https://github.com/JayVegada/COA-Study-Hub) | Computer Organization & Architecture Q-bank with search and filtering | [🌐 View](https://jayvegada.github.io/COA-Study-Hub/) |
 | [OS-Study-Hub](https://github.com/JayVegada/OS-Study-Hub) | Operating Systems learning platform — 39-question bank with unit-wise navigation and search | [🌐 View](https://jayvegada.github.io/OS-Study-Hub/) |
