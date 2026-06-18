@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=F7A800&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student+%40+AIT+GTU;Building+Systems+That+Solve+Real+Problems;Turning+GTU+Resources+Into+Study+Platforms;Future+AI+Engineer+%E2%86%92+Builder+%E2%86%92+Founder;No+Shortcuts.+Just+Depth.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=F7A800&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student+%40+AIT+GTU;Building+Systems+That+Solve+Real+Problems;Turning+GTU+Resources+Into+Study+Platforms;No+Shortcuts.+Just+Depth.)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,7 @@ I'm a **3rd-year Computer Engineering student** at **Ahmedabad Institute of Tech
 
 During exam preparation, I noticed that engineering students often spend more time searching for resources than actually learning. So I started building structured, syllabus-aligned study platforms to fix that — and haven't stopped since.
 
-My current focus is strengthening the fundamentals: programming, computer science, problem solving, and systems design.
+My focus right now is strengthening the fundamentals every strong engineer needs: programming, CS theory, problem solving, and systems thinking. Long term, I'm building toward intelligent, AI-driven systems that solve meaningful problems at scale — starting with education.
 
 ---
 
@@ -34,6 +34,8 @@ My current focus is strengthening the fundamentals: programming, computer scienc
 - Study platforms across multiple GTU subjects
 - GTU SPI/CGPA Calculator
 - Freely accessible and open source
+- Currently building: More Study Hub
+- Currently strengthening: Advanced DSA & core CS fundamentals
 
 ### 1. The GTU Study Ecosystem
 **Why:** Built to help GTU students quickly find syllabus-aligned resources for exam prep instead of searching blindly across scattered material.
@@ -67,31 +69,6 @@ My current focus is strengthening the fundamentals: programming, computer scienc
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🎯 Current Trajectory
-
-```text
-[CURRENT] ⚙️  Core Engineering Foundations
-
-├── Learning CS Fundamentals
-├── Problem Solving & DSA
-├── Building the GTU Study Ecosystem
-└── Currently building: Study Hub
-
-[NEXT] 🧠  Software & Intelligence
-
-├── Advanced DSA
-├── Software Engineering
-├── Python Ecosystem
-├── Machine Learning
-└── AI Systems
-
-[LONG TERM] 🚀
-
-AI Engineer  →  Builder  →  Founder
-```
 
 ---
 
