@@ -78,7 +78,7 @@ My current focus is strengthening the fundamentals: programming, computer scienc
 ├── Learning CS Fundamentals
 ├── Problem Solving & DSA
 ├── Building the GTU Study Ecosystem
-└── Currently building: DBMS Study Hub
+└── Currently building: Study Hub
 
 [NEXT] 🧠  Software & Intelligence
 
