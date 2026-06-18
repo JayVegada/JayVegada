@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=F7A800&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student+%40+AIT+GTU;Building+Tools+For+Engineering+Students;Turning+GTU+Resources+Into+Study+Platforms;Future+AI+Engineer+%E2%86%92+Builder+%E2%86%92+Founder;No+Shortcuts.+Just+Depth.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=F7A800&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student+%40+AIT+GTU;Building+Systems+That+Solve+Real+Problems;Turning+GTU+Resources+Into+Study+Platforms;Future+AI+Engineer+%E2%86%92+Builder+%E2%86%92+Founder;No+Shortcuts.+Just+Depth.)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,32 +22,33 @@
 
 I'm a **3rd-year Computer Engineering student** at **Ahmedabad Institute of Technology (AIT)**, affiliated with Gujarat Technological University, Gujarat 🇮🇳
 
-During exam preparation, I noticed that engineering students often spend more time searching for resources than actually learning. So I started building structured, searchable, syllabus-aligned study platforms to fix that — and haven't stopped since.
+During exam preparation, I noticed that engineering students often spend more time searching for resources than actually learning. So I started building structured, syllabus-aligned study platforms to fix that — and haven't stopped since.
 
-My current focus is strengthening the fundamentals every strong engineer needs: programming, CS theory, problem solving, and systems thinking.
-
-Long term, I aim to build intelligent systems and AI-driven products that solve meaningful problems at scale, beginning with education, productivity, and technology.
+My current focus is strengthening the fundamentals: programming, computer science, problem solving, and systems design.
 
 ---
 
-## 🗂️ Featured Projects
+## 🗂️ Proof of Work
 
-> Open-source tools built for real GTU engineering students.
+- 5+ open-source educational tools
+- Study platforms across multiple GTU subjects
+- GTU SPI/CGPA Calculator
+- Freely accessible and open source
 
-| Project | Description | Live |
-|---------|-------------|------|
-| [ai-engineer-roadmap](https://github.com/JayVegada/ai-engineer-roadmap) | A structured, opinionated roadmap for becoming an AI Engineer — built from first principles | [🌐 View](https://jayvegada.github.io/ai-engineer-roadmap/) |
-| [GTU-SPI-Calculator](https://github.com/JayVegada/GTU-SPI-Calculator) | SPI & CGPA calculator for GTU students — grade input, live calculation, clean UI | [🌐 View](https://jayvegada.github.io/gtu-spi-calculator/) |
-| [OOP-Study-Hub](https://github.com/JayVegada/OOP-Study-Hub) | Object-Oriented Programming exam prep — structured Q&A with ELI10 explanations and syllabus mapping | [🌐 View](https://jayvegada.github.io/OOP-Study-Hub/) |
-| [COA-Study-Hub](https://github.com/JayVegada/COA-Study-Hub) | Computer Organization & Architecture Q-bank with search and filtering | [🌐 View](https://jayvegada.github.io/COA-Study-Hub/) |
-| [OS-Study-Hub](https://github.com/JayVegada/OS-Study-Hub) | Operating Systems learning platform — 39-question bank with unit-wise navigation and search | [🌐 View](https://jayvegada.github.io/OS-Study-Hub/) |
+### 1. The GTU Study Ecosystem
+**Why:** Built to help GTU students quickly find syllabus-aligned resources for exam prep instead of searching blindly across scattered material.
+**Built:** Structured, searchable study platforms with filtering and unit-wise navigation, covering OOP, OS, and COA so far.
+**Live:** [OOP Hub](https://jayvegada.github.io/OOP-Study-Hub/) · [OS Hub](https://jayvegada.github.io/OS-Study-Hub/) · [COA Hub](https://jayvegada.github.io/COA-Study-Hub/)
 
-### Impact
+### 2. GTU SPI/CGPA Calculator
+**Why:** Manual grade calculation under GTU's specific credit system was a recurring friction point for students every semester.
+**Built:** An automated, live-updating calculator with a clean UI tailored strictly to university grading rules.
+**Live:** [GTU-SPI-Calculator](https://jayvegada.github.io/gtu-spi-calculator/)
 
-- 5+ open-source tools for GTU engineering students
-- Multiple subjects covered across different sem
-- Open-source and freely accessible
-- Built to reduce friction in engineering exam preparation
+### 3. AI Engineer Roadmap
+**Why:** The path to AI engineering is cluttered with noise, conflicting tutorials, and no clear sequencing.
+**Built:** A structured, opinionated roadmap built from first principles to give other learners a clearer path.
+**Live:** [ai-engineer-roadmap](https://jayvegada.github.io/ai-engineer-roadmap/)
 
 ---
 
@@ -76,8 +77,8 @@ Long term, I aim to build intelligent systems and AI-driven products that solve 
 
 ├── Learning CS Fundamentals
 ├── Problem Solving & DSA
-├── Project-Driven Development
-└── Building GTU educational platforms
+├── Building the GTU Study Ecosystem
+└── Currently building: DBMS Study Hub
 
 [NEXT] 🧠  Software & Intelligence
 
@@ -94,25 +95,25 @@ AI Engineer  →  Builder  →  Founder
 
 ---
 
-## 🏏 Beyond Technology
+## ♟️ Beyond the Terminal
 
-Outside programming, I captain a **kabaddi team** — where leadership, trust, and split-second decisions under pressure matter as much as technical skill.
+Great systems are driven by clear thinking.
 
-I organized a **multi-college C++ debugging challenge**: designed the question bank, built the grading system, detected anomalies, and coordinated volunteers. Running a technical event taught me things no classroom does.
-
-I enjoy studying strategy through cricket, game theory, history, and the Mahabharata — particularly the thinking of Krishna, Vidur, Devavrat and Arjun. Philosophy and engineering are more related than they look.
+- **Execution:** Captain of a competitive kabaddi team — managing team dynamics and split-second decisions under pressure.
+- **Operations:** Architected and ran a multi-college C++ debugging challenge — built the grading system, designed the question bank, detected anomalies, and coordinated volunteers.
+- **Strategy:** I study decision-making, incentives, and leadership through the Mahabharata — particularly Krishna, Vidur, Devavrat, and Arjun — and through game theory, applying those lessons to technical execution.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayVegada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayVegada&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JayVegada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayVegada&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JayVegada&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=JayVegada&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -123,7 +124,6 @@ Learning, building, and always open to meaningful conversations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-vegada-ja045y/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.jayvegada201@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaypatel.045/)
 
 ---
 
