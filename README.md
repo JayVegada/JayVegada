@@ -82,19 +82,6 @@ Great systems are driven by clear thinking.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayVegada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayVegada&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JayVegada&theme=tokyonight&hide_border=true" width="100%" />
-</div>
-
----
-
 ## 📬 Connect
 
 Learning, building, and always open to meaningful conversations.
